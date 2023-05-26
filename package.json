@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "csv-parse": "^5.3.10"
+    "csv-parse": "^5.3.10",
+    "js-joda": "^1.11.0",
+    "prompt-sync": "^4.2.0"
   }
 }
